@@ -43,7 +43,7 @@ public class RemoveDuplicatesTest {
         expectedResult.add(10);
         expectedResult.add(11);
         // Verify that the correct unique ints were returned
-        assertEquals(sortedResult, expectedResult);
+        assertEquals("Contents of result array", sortedResult, expectedResult);
     }
     
 }
