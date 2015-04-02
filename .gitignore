@@ -3,3 +3,16 @@
 /java-practice/Problem 4 - Simple POS/nbproject/private/
 /java-practice/Problem 2 - Remove Duplicates/nbproject/private/
 /java-practice/Problem 2 - Remove Duplicates/build/
+*.log
+*.markers
+*.dat
+Java Practice/.metadata/.plugins/org.eclipse.core.resources/.root/4.tree
+*.resources
+Java Practice/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.ui.prefs
+*.prefs
+Java Practice/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+*.xml
+Java Practice/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+*.prefs
+*.xml
+*.resources

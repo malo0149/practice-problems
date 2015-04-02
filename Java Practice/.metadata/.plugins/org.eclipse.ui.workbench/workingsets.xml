@@ -2,8 +2,8 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1427940081336_1" label="Java Practice" name="Java Practice">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Problem 2 - Remove Duplicates" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Problem 1 - Array Sort and Group" type="4"/>
 <item elementID="=Problem 4 - Simple POS" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Problem 1 - Array Sort and Group" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1427940037333_0" label="Window Working Set" name="Aggregate for window 1427940037332"/>
 <mruList name="Java Practice"/>
